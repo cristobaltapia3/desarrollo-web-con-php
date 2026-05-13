@@ -3,6 +3,6 @@ Desarrollo web con PHP
 
 Necesitamos instalar: 
 
--Git bash para Windows
--VsCode para Windows
--Xampp
+- Git bash para Windows 
+- VsCode para Windows
+- Xampp
